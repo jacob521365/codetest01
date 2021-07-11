@@ -1,0 +1,596 @@
+[
+  {
+    "tradeReference": "T10000",
+    "accountNumber": 6573504090,
+    "stockCode": "TW",
+    "quantity": 701.214622,
+    "currency": "USD",
+    "price": 323.52,
+    "broker": "B43820"
+  },
+  {
+    "tradeReference": "T10001",
+    "accountNumber": 5191113623,
+    "stockCode": "KO",
+    "quantity": 986.093489,
+    "currency": "CNY",
+    "price": 172.49,
+    "broker": "B75894"
+  },
+  {
+    "tradeReference": "T10002",
+    "accountNumber": 3983163528,
+    "stockCode": "TW",
+    "quantity": 38.81223,
+    "currency": "USD",
+    "price": 57.58,
+    "broker": "B38779"
+  },
+  {
+    "tradeReference": "T10003",
+    "accountNumber": 1215456987,
+    "stockCode": "TW",
+    "quantity": 287.294227,
+    "currency": "USD",
+    "price": 326.9,
+    "broker": "B13686"
+  },
+  {
+    "tradeReference": "T10004",
+    "accountNumber": 3998202595,
+    "stockCode": "TW",
+    "quantity": 523.864941,
+    "currency": "CNY",
+    "price": 141.32,
+    "broker": "B94475"
+  },
+  {
+    "tradeReference": "T10005",
+    "accountNumber": 9025861677,
+    "stockCode": "GG",
+    "quantity": 847.266496,
+    "currency": "CNY",
+    "price": 539.53,
+    "broker": "B27703"
+  },
+  {
+    "tradeReference": "T10006",
+    "accountNumber": 9843972426,
+    "stockCode": "KO",
+    "quantity": 242.925931,
+    "currency": "GBP",
+    "price": 72.13,
+    "broker": "B55565"
+  },
+  {
+    "tradeReference": "T10007",
+    "accountNumber": 8314898768,
+    "stockCode": "GG",
+    "quantity": 462.656609,
+    "currency": "USD",
+    "price": 340.21,
+    "broker": "B82842"
+  },
+  {
+    "tradeReference": "T10008",
+    "accountNumber": 2650629537,
+    "stockCode": "GG",
+    "quantity": 69.690061,
+    "currency": "USD",
+    "price": 557.05,
+    "broker": "B98738"
+  },
+  {
+    "tradeReference": "T10009",
+    "accountNumber": 2047171791,
+    "stockCode": "AAPL",
+    "quantity": 5.086871,
+    "currency": "GBP",
+    "price": 285.7,
+    "broker": "B64068"
+  },
+  {
+    "tradeReference": "T10010",
+    "accountNumber": 7347808470,
+    "stockCode": "KO",
+    "quantity": 793.829703,
+    "currency": "CNY",
+    "price": 853.6,
+    "broker": "B52891"
+  },
+  {
+    "tradeReference": "T10011",
+    "accountNumber": 6363732513,
+    "stockCode": "AAPL",
+    "quantity": 819.270872,
+    "currency": "USD",
+    "price": 929.66,
+    "broker": "B75294"
+  },
+  {
+    "tradeReference": "T10012",
+    "accountNumber": 8805761075,
+    "stockCode": "TW",
+    "quantity": 420.423091,
+    "currency": "GBP",
+    "price": 250.57,
+    "broker": "B73342"
+  },
+  {
+    "tradeReference": "T10013",
+    "accountNumber": 4897785918,
+    "stockCode": "TW",
+    "quantity": 656.800332,
+    "currency": "USD",
+    "price": 914.29,
+    "broker": "B93241"
+  },
+  {
+    "tradeReference": "T10014",
+    "accountNumber": 4168959251,
+    "stockCode": "SH",
+    "quantity": 43.353182,
+    "currency": "CNY",
+    "price": 913.07,
+    "broker": "B77883"
+  },
+  {
+    "tradeReference": "T10015",
+    "accountNumber": 1360757540,
+    "stockCode": "SH",
+    "quantity": 805.557116,
+    "currency": "CNY",
+    "price": 946.93,
+    "broker": "B36351"
+  },
+  {
+    "tradeReference": "T10016",
+    "accountNumber": 6648942460,
+    "stockCode": "KO",
+    "quantity": 948.536579,
+    "currency": "USD",
+    "price": 873.78,
+    "broker": "B87800"
+  },
+  {
+    "tradeReference": "T10017",
+    "accountNumber": 8371519354,
+    "stockCode": "KO",
+    "quantity": 251.922816,
+    "currency": "GBP",
+    "price": 193.51,
+    "broker": "B23320"
+  },
+  {
+    "tradeReference": "T10018",
+    "accountNumber": 4113845741,
+    "stockCode": "GG",
+    "quantity": 350.48438,
+    "currency": "CNY",
+    "price": 447.59,
+    "broker": "B26567"
+  },
+  {
+    "tradeReference": "T10019",
+    "accountNumber": 4086816762,
+    "stockCode": "TW",
+    "quantity": 923.802128,
+    "currency": "GBP",
+    "price": 750.26,
+    "broker": "B56277"
+  },
+  {
+    "tradeReference": "T10020",
+    "accountNumber": 4777674969,
+    "stockCode": "SH",
+    "quantity": 209.326742,
+    "currency": "USD",
+    "price": 969.82,
+    "broker": "B93403"
+  },
+  {
+    "tradeReference": "T10021",
+    "accountNumber": 4092659551,
+    "stockCode": "AAPL",
+    "quantity": 912.491231,
+    "currency": "CNY",
+    "price": 598.35,
+    "broker": "B85223"
+  },
+  {
+    "tradeReference": "T10022",
+    "accountNumber": 1604620776,
+    "stockCode": "TW",
+    "quantity": 994.833478,
+    "currency": "CNY",
+    "price": 335.11,
+    "broker": "B14662"
+  },
+  {
+    "tradeReference": "T10023",
+    "accountNumber": 2739323703,
+    "stockCode": "SH",
+    "quantity": 370.153346,
+    "currency": "GBP",
+    "price": 408.04,
+    "broker": "B11278"
+  },
+  {
+    "tradeReference": "T10024",
+    "accountNumber": 4046074007,
+    "stockCode": "GG",
+    "quantity": 423.147018,
+    "currency": "GBP",
+    "price": 484.22,
+    "broker": "B18219"
+  },
+  {
+    "tradeReference": "T10025",
+    "accountNumber": 4278687538,
+    "stockCode": "KO",
+    "quantity": 473.238039,
+    "currency": "GBP",
+    "price": 518.37,
+    "broker": "B84474"
+  },
+  {
+    "tradeReference": "T10026",
+    "accountNumber": 4931990205,
+    "stockCode": "AAPL",
+    "quantity": 768.180475,
+    "currency": "CNY",
+    "price": 31.67,
+    "broker": "B89678"
+  },
+  {
+    "tradeReference": "T10027",
+    "accountNumber": 4981978125,
+    "stockCode": "KO",
+    "quantity": 565.067772,
+    "currency": "CNY",
+    "price": 102.96,
+    "broker": "B64923"
+  },
+  {
+    "tradeReference": "T10028",
+    "accountNumber": 4585773513,
+    "stockCode": "KO",
+    "quantity": 579.162669,
+    "currency": "CNY",
+    "price": 664.34,
+    "broker": "B97339"
+  },
+  {
+    "tradeReference": "T10029",
+    "accountNumber": 8830046667,
+    "stockCode": "SH",
+    "quantity": 887.08952,
+    "currency": "USD",
+    "price": 179.55,
+    "broker": "B52328"
+  },
+  {
+    "tradeReference": "T10030",
+    "accountNumber": 1184039664,
+    "stockCode": "KO",
+    "quantity": 669.218667,
+    "currency": "CNY",
+    "price": 295.72,
+    "broker": "B51579"
+  },
+  {
+    "tradeReference": "T10031",
+    "accountNumber": 4505258182,
+    "stockCode": "AAPL",
+    "quantity": 819.254026,
+    "currency": "GBP",
+    "price": 675.94,
+    "broker": "B16542"
+  },
+  {
+    "tradeReference": "T10032",
+    "accountNumber": 1130943387,
+    "stockCode": "TW",
+    "quantity": 371.789516,
+    "currency": "CNY",
+    "price": 765.62,
+    "broker": "B23446"
+  },
+  {
+    "tradeReference": "T10033",
+    "accountNumber": 3413711975,
+    "stockCode": "KO",
+    "quantity": 467.115249,
+    "currency": "USD",
+    "price": 551.07,
+    "broker": "B23833"
+  },
+  {
+    "tradeReference": "T10034",
+    "accountNumber": 9778253075,
+    "stockCode": "KO",
+    "quantity": 860.198494,
+    "currency": "GBP",
+    "price": 491.78,
+    "broker": "B46262"
+  },
+  {
+    "tradeReference": "T10035",
+    "accountNumber": 1914766781,
+    "stockCode": "SH",
+    "quantity": 133.305301,
+    "currency": "GBP",
+    "price": 531.01,
+    "broker": "B50471"
+  },
+  {
+    "tradeReference": "T10036",
+    "accountNumber": 5706841528,
+    "stockCode": "TW",
+    "quantity": 250.882209,
+    "currency": "GBP",
+    "price": 798.67,
+    "broker": "B16369"
+  },
+  {
+    "tradeReference": "T10037",
+    "accountNumber": 1546292991,
+    "stockCode": "AAPL",
+    "quantity": 759.976809,
+    "currency": "CNY",
+    "price": 779.71,
+    "broker": "B19133"
+  },
+  {
+    "tradeReference": "T10038",
+    "accountNumber": 3408954180,
+    "stockCode": "TW",
+    "quantity": 353.590722,
+    "currency": "USD",
+    "price": 548.6,
+    "broker": "B57139"
+  },
+  {
+    "tradeReference": "T10039",
+    "accountNumber": 6489052232,
+    "stockCode": "SH",
+    "quantity": 209.675027,
+    "currency": "CNY",
+    "price": 255.31,
+    "broker": "B89877"
+  },
+  {
+    "tradeReference": "T10040",
+    "accountNumber": 6800923797,
+    "stockCode": "KO",
+    "quantity": 548.155504,
+    "currency": "CNY",
+    "price": 129.67,
+    "broker": "B87921"
+  },
+  {
+    "tradeReference": "T10041",
+    "accountNumber": 2003113859,
+    "stockCode": "GG",
+    "quantity": 588.501178,
+    "currency": "GBP",
+    "price": 545.36,
+    "broker": "B35531"
+  },
+  {
+    "tradeReference": "T10042",
+    "accountNumber": 6842598731,
+    "stockCode": "KO",
+    "quantity": 296.681239,
+    "currency": "CNY",
+    "price": 504.64,
+    "broker": "B16947"
+  },
+  {
+    "tradeReference": "T10043",
+    "accountNumber": 8403366344,
+    "stockCode": "GG",
+    "quantity": 902.895472,
+    "currency": "GBP",
+    "price": 514.34,
+    "broker": "B79667"
+  },
+  {
+    "tradeReference": "T10044",
+    "accountNumber": 9508607946,
+    "stockCode": "KO",
+    "quantity": 597.573224,
+    "currency": "GBP",
+    "price": 469.24,
+    "broker": "B25047"
+  },
+  {
+    "tradeReference": "T10045",
+    "accountNumber": 8807642768,
+    "stockCode": "KO",
+    "quantity": 682.703444,
+    "currency": "GBP",
+    "price": 898.9,
+    "broker": "B75956"
+  },
+  {
+    "tradeReference": "T10046",
+    "accountNumber": 4666820401,
+    "stockCode": "SH",
+    "quantity": 927.32071,
+    "currency": "GBP",
+    "price": 776.43,
+    "broker": "B86601"
+  },
+  {
+    "tradeReference": "T10047",
+    "accountNumber": 9183816160,
+    "stockCode": "KO",
+    "quantity": 566.874839,
+    "currency": "GBP",
+    "price": 74.57,
+    "broker": "B82188"
+  },
+  {
+    "tradeReference": "T10048",
+    "accountNumber": 4317117227,
+    "stockCode": "KO",
+    "quantity": 867.894372,
+    "currency": "GBP",
+    "price": 559.75,
+    "broker": "B11787"
+  },
+  {
+    "tradeReference": "T10049",
+    "accountNumber": 8123320547,
+    "stockCode": "TW",
+    "quantity": 8.206205,
+    "currency": "GBP",
+    "price": 850.59,
+    "broker": "B25625"
+  },
+  {
+    "tradeReference": "T10050",
+    "accountNumber": 7090794650,
+    "stockCode": "TW",
+    "quantity": 973.26736,
+    "currency": "CNY",
+    "price": 411.86,
+    "broker": "B92730"
+  },
+  {
+    "tradeReference": "T10051",
+    "accountNumber": 5744943583,
+    "stockCode": "SH",
+    "quantity": 808.762602,
+    "currency": "USD",
+    "price": 709.55,
+    "broker": "B83866"
+  },
+  {
+    "tradeReference": "T10052",
+    "accountNumber": 5621901014,
+    "stockCode": "GG",
+    "quantity": 299.75668,
+    "currency": "USD",
+    "price": 435.37,
+    "broker": "B34963"
+  },
+  {
+    "tradeReference": "T10053",
+    "accountNumber": 4321388273,
+    "stockCode": "GG",
+    "quantity": 215.380746,
+    "currency": "USD",
+    "price": 552.57,
+    "broker": "B81504"
+  },
+  {
+    "tradeReference": "T10054",
+    "accountNumber": 5071346141,
+    "stockCode": "GG",
+    "quantity": 679.399483,
+    "currency": "CNY",
+    "price": 863.06,
+    "broker": "B96753"
+  },
+  {
+    "tradeReference": "T10055",
+    "accountNumber": 3390534963,
+    "stockCode": "TW",
+    "quantity": 630.64034,
+    "currency": "CNY",
+    "price": 245.35,
+    "broker": "B71595"
+  },
+  {
+    "tradeReference": "T10056",
+    "accountNumber": 3286943483,
+    "stockCode": "KO",
+    "quantity": 594.847209,
+    "currency": "GBP",
+    "price": 977.4,
+    "broker": "B71899"
+  },
+  {
+    "tradeReference": "T10057",
+    "accountNumber": 9717441744,
+    "stockCode": "AAPL",
+    "quantity": 316.763798,
+    "currency": "GBP",
+    "price": 225.87,
+    "broker": "B20272"
+  },
+  {
+    "tradeReference": "T10058",
+    "accountNumber": 2442259005,
+    "stockCode": "AAPL",
+    "quantity": 468.69954,
+    "currency": "CNY",
+    "price": 636,
+    "broker": "B83601"
+  },
+  {
+    "tradeReference": "T10059",
+    "accountNumber": 7127209567,
+    "stockCode": "AAPL",
+    "quantity": 759.527506,
+    "currency": "GBP",
+    "price": 27.48,
+    "broker": "B64104"
+  },
+  {
+    "tradeReference": "T10060",
+    "accountNumber": 2943700085,
+    "stockCode": "SH",
+    "quantity": 706.764416,
+    "currency": "CNY",
+    "price": 961.07,
+    "broker": "B90464"
+  },
+  {
+    "tradeReference": "T10061",
+    "accountNumber": 5320861726,
+    "stockCode": "GG",
+    "quantity": 339.085949,
+    "currency": "GBP",
+    "price": 443.61,
+    "broker": "B85372"
+  },
+  {
+    "tradeReference": "T10062",
+    "accountNumber": 3080961727,
+    "stockCode": "AAPL",
+    "quantity": 674.705109,
+    "currency": "USD",
+    "price": 779.79,
+    "broker": "B32606"
+  },
+  {
+    "tradeReference": "T10063",
+    "accountNumber": 4418539908,
+    "stockCode": "GG",
+    "quantity": 846.722314,
+    "currency": "CNY",
+    "price": 456.14,
+    "broker": "B53277"
+  },
+  {
+    "tradeReference": "T10064",
+    "accountNumber": 7439239880,
+    "stockCode": "KO",
+    "quantity": 586.04361,
+    "currency": "USD",
+    "price": 249.07,
+    "broker": "B86347"
+  },
+  {
+    "tradeReference": "T10065",
+    "accountNumber": 1185652084,
+    "stockCode": "GG",
+    "quantity": 245.935504,
+    "currency": "CNY",
+    "price": 180.61,
+    "broker": "B45297"
+  }
+]
